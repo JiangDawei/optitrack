@@ -1,0 +1,2 @@
+./imagelist0.txt
+./imagelist1.txt
